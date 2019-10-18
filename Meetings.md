@@ -10,3 +10,7 @@
 - Created sub roles for both front end and back end team. Created internal due dates, for our team, such as when things need to be done and when we will have code reviews. Created a Gantt chart of our plan.
 - Next meeting friday the 18th for October.
 - Everyone except Kevin was there.
+# 18 Oct 19
+- Went over the framework for the website and python code for google cloud vision. Planning on changed from python to node.js
+- Went over future tasks, More front end, with different pages and postgreSQL implementation.
+- Made forks in project
