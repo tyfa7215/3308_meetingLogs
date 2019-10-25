@@ -15,7 +15,7 @@
 - Went over the framework for the website and python code for google cloud vision. Planning on changed from python to node.js
 - Went over future tasks, More front end, with different pages and postgreSQL implementation.
 - Made forks in project
-#25 Oct 19
+# 25 Oct 19
 - Everyone was here
 - Backend went over database design and got approval from front end team
 - Worked on frontend / backend integration with new "middle-end" team
