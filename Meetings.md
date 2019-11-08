@@ -20,3 +20,7 @@
 - Backend went over database design and got approval from front end team
 - Worked on frontend / backend integration with new "middle-end" team
 - More work on frontend
+# 8 Nov 19
+- Completed project milestone #4
+- Assigned new tasks for the next week
+- 100% team attendance
