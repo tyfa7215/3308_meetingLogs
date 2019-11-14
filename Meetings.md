@@ -24,3 +24,5 @@
 - Completed project milestone #4
 - Assigned new tasks for the next week
 - 100% team attendance
+# 14 Nov 19
+- Working on merging py file with pug and node.js
