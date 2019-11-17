@@ -26,3 +26,7 @@
 - 100% team attendance
 # 14 Nov 19
 - Working on merging py file with pug and node.js
+- 100% team attendance
+# 15 Nov 19
+- Talked about final stucture and plan for project. more with node. talked about merging branchs.
+- 100% team attendance
