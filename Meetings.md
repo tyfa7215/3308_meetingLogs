@@ -30,3 +30,8 @@
 # 15 Nov 19
 - Talked about final stucture and plan for project. more with node. talked about merging branchs.
 - 100% team attendance
+# 22 Nov 19
+- Team meeting prior to fall break
+- 100% attendance
+- Worked on DB integration and revisions
+- Planned out work to do over break
