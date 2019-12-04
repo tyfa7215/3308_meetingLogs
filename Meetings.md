@@ -35,3 +35,9 @@
 - 100% attendance
 - Worked on DB integration and revisions
 - Planned out work to do over break
+# 04 Dec 19
+- Wrapped up milestone 6
+- Buttoned up user login, identification, and verification
+- Pushed to Heroku
+- All here except Kevin
+- Plan in place for final milestone 7
